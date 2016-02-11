@@ -1,0 +1,13 @@
+# WEBS-DE-INTERES
+[ESTILOS DE CSS](http://www.css3maker.com/)  
+[GENERADOR DE CSS](http://www.cssmatic.com/)   
+[PALETA DE COLORES KULER](https://color.adobe.com/)  
+[TUTORIALES DE CSS, HTML Y JAVASCRIPT (ENGLISH)](http://www.w3schools.com/)  
+[WEB DE DISEÑO Y DESARROLLO](http://tympanus.net/codrops/)  
+[HERRAMIENTA PARA SABER TAMAÑO APLICATIVOS](https://chrome.google.com/webstore/search/sizes)  
+[BOOTSTRAP PARA SUBLIME TEXT](https://github.com/JasonMortonNZ/bs3-sublime-plugin)  
+[CODIGOS INTERESANTES (CODROPS)](http://tympanus.net/codrops/)  
+[GLYPHICONS BOOTSTRAP](http://getbootstrap.com/components/)  
+[SNIPPETS](http://bootsnipp.com/)  
+[PLANTILLAS/TEMPLATES](https://wrapbootstrap.com/)
+[PARA IMPORTAR MODULOS PW Y OTROS](https://processwire.com)
