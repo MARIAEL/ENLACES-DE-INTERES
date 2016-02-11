@@ -9,5 +9,5 @@
 [CODIGOS INTERESANTES (CODROPS)](http://tympanus.net/codrops/)  
 [GLYPHICONS BOOTSTRAP](http://getbootstrap.com/components/)  
 [SNIPPETS](http://bootsnipp.com/)  
-[PLANTILLAS/TEMPLATES](https://wrapbootstrap.com/)
+[PLANTILLAS/TEMPLATES](https://wrapbootstrap.com/)  
 [PARA IMPORTAR MODULOS PW Y OTROS](https://processwire.com)
