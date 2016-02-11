@@ -10,10 +10,7 @@
 [GLYPHICONS BOOTSTRAP](http://getbootstrap.com/components/)  
 [SNIPPETS](http://bootsnipp.com/)  
 [PLANTILLAS/TEMPLATES](https://wrapbootstrap.com/)  
-[PARA IMPORTAR MODULOS PW Y OTROS](https://processwire.com)
-----------------------------------------------------------  
-
-
+[PARA IMPORTAR MODULOS PW Y OTROS](https://processwire.com)  
 [CODIGOS EN PHP](http://php.net)
 [3WSCHOOLS](http://www.w3schools.com)
 [CAMPOS DE FORMULARIOS](http://librosweb.es/libro/bootstrap_3/capitulo_5/campos_de_formulario.html)  
